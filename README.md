@@ -3,7 +3,7 @@
 - Topic : Uncertainty-aware Deep Learning  
   
 - Paper: Simple and Principled Uncertainty Estimation with Deterministic Deep Learning via Distance Awareness 
-[Link: https://papers.nips.cc/paper/2020/file/543e83748234f7cbab21aa0ade66565f-Paper.pdf ]
+&nbsp;[Link: https://papers.nips.cc/paper/2020/file/543e83748234f7cbab21aa0ade66565f-Paper.pdf ]
   
 - Reference code: https://www.tensorflow.org/tutorials/understanding/sngp
 
