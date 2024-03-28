@@ -7,7 +7,7 @@
   
 - Reference code: https://www.tensorflow.org/tutorials/understanding/sngp
 
-    - Problem 1: What is the problem that the paper aims to solve, and why is this problem important or interesting? Answer this question in two sentences. (5 points) 
+    - Problem 1: What is the problem that the paper aims to solve, and why is this problem important or interesting? Answer this question in two sentences. (5 points)  
     
     - Problem 2: What is the meaning of “distance awareness”? How do the authors achieve “distance awareness”? Answer this question in two sentences. (15 points) 
     
