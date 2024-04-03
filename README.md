@@ -16,4 +16,4 @@
     - Problem 4: Reproduce the toy experiment (Figure 1 (f),(i),(j)) in the paper. You need to output the three figures. (30 points) 
     
     - Problem 5: Conduct the same sets of experiments as Problem 4 on the mixture of 8 Gaussians and 25 Gaussians respectively. These Gaussians can be either identical or with different parameters at your choice. You need to output six pictures. (50 points) 
-    
+
